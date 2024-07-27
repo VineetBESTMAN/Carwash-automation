@@ -15,11 +15,8 @@ Before running the application, ensure that you have the following software inst
 
 To clone the repository, open your terminal and run the following command:
 
-git clone https://github.com/VineetBESTMAN/Carwash-automation.git
-
-
-
 ```bash
+git clone https://github.com/VineetBESTMAN/Carwash-automation.git
 
 ```
 
